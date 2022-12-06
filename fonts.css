@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'MuseoModerno';
+  src: url("assets/fonts/MuseoModerno-Light.ttf") format("truetype");
+}
+  
+@font-face {
+  font-family: 'Amiko';
+  src: url("assets/fonts/Amiko-Regular.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Amiko';
+  src: url("assets/fonts/Amiko-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Jumber';
+  src: url("assets/fonts/Jumper-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
