@@ -115,8 +115,7 @@ nav .hamburger {
   nav .menu {
     display: flex;
     white-space: nowrap;
-    align-items: center;
-    color: var(--primary-color);
+    align-items: center;;
   }
   
   .menu-link a {
@@ -206,7 +205,7 @@ nav .hamburger {
 }
 
 /********************************************************/
-/************************ PARTNERS *************************/
+/************************ PRODUCTS *************************/
 /********************************************************/
   
 #products {
@@ -383,7 +382,6 @@ nav .hamburger {
 
 .clean:visited {
   text-decoration: none;
-  color:black;
 }
 
 .line {
@@ -406,4 +404,12 @@ nav .hamburger {
   box-sizing: border-box;
   border-radius: 25px;
   border: 2px solid black;
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
+.unbreakable {
+  white-space: nowrap;
 }
